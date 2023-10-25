@@ -1,0 +1,9 @@
+README.md
+setup.py
+libclonevoice/__init__.py
+libclonevoice/clonevoice.py
+libclonevoice.egg-info/PKG-INFO
+libclonevoice.egg-info/SOURCES.txt
+libclonevoice.egg-info/dependency_links.txt
+libclonevoice.egg-info/top_level.txt
+tests/test_clonevoice.py
