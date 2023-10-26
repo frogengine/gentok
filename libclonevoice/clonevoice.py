@@ -2,7 +2,7 @@ from elevenlabs import clone, generate, play
 from elevenlabs import set_api_key
 import os
 
-set_api_key("a74699ff20ccb863ffde7dea636c0c81")
+set_api_key("a3855ad0815f121c6eeae907349c65f0")
 
 def clonevoice(txt: str, sample: str):
 
